@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shader.frag</file>
+        <file>shader.vert</file>
+        <file>edge.frag</file>
+        <file>gaussianblur.frag</file>
+        <file>bloom.frag</file>
+        <file>gammacorrection.frag</file>
+        <file>filtermask.frag</file>
+        <file>wave.frag</file>
+        <file>negativo.frag</file>
+    </qresource>
+</RCC>
